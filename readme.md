@@ -5,7 +5,9 @@
 You are a human/cyborg/sentient AI diving into ancient dungeons (of our far future).
 
 ## Design
-Using python-tdl
+Using python-tdl, python3
+
+pip3 install tdl
 
 More to come...
 
